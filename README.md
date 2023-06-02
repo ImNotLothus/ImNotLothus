@@ -11,19 +11,19 @@
 
 # About ME 💬 :
 
-### - 𝙊𝙡𝙖́ 𝙢𝙚𝙪 𝙣𝙤𝙢𝙚 𝙚́ 𝙅𝙤𝙖̃𝙤, 𝙨𝙤𝙪 𝙪𝙢 𝙚𝙨𝙩𝙪𝙙𝙖𝙣𝙩𝙚 𝙗𝙧𝙖𝙨𝙞𝙡𝙚𝙞𝙧𝙤 𝙖𝙥𝙖𝙞𝙭𝙤𝙣𝙖𝙙𝙤 𝙥𝙤𝙧 𝙥𝙧𝙤𝙜𝙧𝙖𝙢𝙖𝙘̧𝙖̃𝙤
+### - 𝙊𝙡𝙖́ 𝙢𝙚𝙪 𝙣𝙤𝙢𝙚 𝙚́ 𝙅𝙤𝙖̃𝙤, 𝙨𝙤𝙪 𝙪𝙢 𝙚𝙨𝙩𝙪𝙙𝙖𝙣𝙩𝙚 𝙗𝙧𝙖𝙨𝙞𝙡𝙚𝙞𝙧𝙤 𝙙𝙚 𝙥𝙧𝙤𝙜𝙧𝙖𝙢𝙖𝙘̧𝙖̃𝙤
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
-### - Learning :
+### - Aprendendo :
 - ✨ Data Structures & Algorithms
 - ✨ Generative Adversarial Networks
 
 ### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ Cook
+- ✨ Jogar No Computador
+- ✨ Ir na Academia
+- ✨ Ler Light Novels
+- ✨ Observar O Céu
 
 </br>
 </br>
@@ -31,7 +31,7 @@
 
 
 
-# Languages & Tools 👨‍💻 🛠:
+# Linguagens e Ferramentas 👨‍💻 🛠:
 </br>
 
 <p align="center">
@@ -59,7 +59,7 @@
 <img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
 
 
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+Se você quer me perguntar algo, ou apenas conversar ou jogar, apenas me marque em algum icone abaixo :)
 
 <a href="mailto:ashutosh.saxena.2001@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
