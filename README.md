@@ -1,5 +1,5 @@
 # TARGON
-# Konichiwa 👋
+# Olá, Seja Bem-Vindo 👋
 ![original](https://user-images.githubusercontent.com/106596730/173574214-387cb764-7509-49a1-b602-69f849fc6387.gif)
 <div align="center">
 
