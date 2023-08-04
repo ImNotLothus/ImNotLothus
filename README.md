@@ -20,7 +20,7 @@
 - ✨ Generative Adversarial Networks
 
 ### - Hobbies : 
-- ✨ Jogar No Computador
+- ✨ Jogar
 - ✨ Ir na Academia
 - ✨ Ler Light Novels
 - ✨ Observar O Céu
